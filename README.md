@@ -5,4 +5,5 @@ For project 11: Ansible Automation Project on Darey.io
 
 Testing jenkins webhook.
 
-Testing jenkins save_artifacts
+Testing save_artifacts job in jenkins to copy artifacts from ansible job.
+
