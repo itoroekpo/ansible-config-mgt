@@ -7,6 +7,9 @@ Testing jenkins webhook.
 
 Testing copy_artifacts plugin with save_artifacts job
 
+Added static-assignments
+
+
 
 
 
