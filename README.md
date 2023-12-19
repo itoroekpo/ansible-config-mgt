@@ -5,7 +5,8 @@ For project 11: Ansible Automation Project on Darey.io
 
 Testing jenkins webhook.
 
-Testing with def folder 2
+Testing save_artifacts
+
 
 
 
